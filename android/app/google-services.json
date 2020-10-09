@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "406751180883",
+    "firebase_url": "https://hydrate-7f6f6.firebaseio.com",
+    "project_id": "hydrate-7f6f6",
+    "storage_bucket": "hydrate-7f6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406751180883:android:50fb0d069cfbd904f82ea6",
+        "android_client_info": {
+          "package_name": "com.hydrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406751180883-hsn4hejhp65c6tkcu29479ckn873jnas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApE34_StWizbg3MxKZzKcJDUdLLN-Uan4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406751180883-hsn4hejhp65c6tkcu29479ckn873jnas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406751180883:android:48b9ab6fc0561a56f82ea6",
+        "android_client_info": {
+          "package_name": "hydrate.moczydlowski.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406751180883-hsn4hejhp65c6tkcu29479ckn873jnas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApE34_StWizbg3MxKZzKcJDUdLLN-Uan4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406751180883-hsn4hejhp65c6tkcu29479ckn873jnas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

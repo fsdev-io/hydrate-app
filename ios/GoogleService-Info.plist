@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>406751180883-2mdojrd5lmg5qadohqlo210o1h4ks4uo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406751180883-2mdojrd5lmg5qadohqlo210o1h4ks4uo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrkg0KphiZqoEb5gfER-Gmqc5zA7PSYlQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406751180883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.hydrate</string>
+	<key>PROJECT_ID</key>
+	<string>hydrate-7f6f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hydrate-7f6f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406751180883:ios:7b7d3fd645478cc0f82ea6</string>
+	<key>DATABASE_URL</key>
+	<string>https://hydrate-7f6f6.firebaseio.com</string>
+</dict>
+</plist>
